@@ -23,6 +23,7 @@ They all have end period, token max-supply allocation, discount on price, minimu
 
 ### 2. Automatic refund in case of crowdsale doesn't reach the softcap
 
+&nbsp;
 
 ### 3. Dai and ETH token support in *CrowdsaleDAIandETH.sol*    
 
